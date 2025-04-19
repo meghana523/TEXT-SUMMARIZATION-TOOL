@@ -52,3 +52,6 @@
 *Useful for mobile or low-bandwidth scenarios*
 
 *In summary, a text summarization tool is an essential AI-based utility that transforms complex and lengthy text into meaningful, shorter versions, making content easier and quicker to digest.*
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/b71f4839-9552-4684-b6c4-256d09203687)
